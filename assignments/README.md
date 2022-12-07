@@ -1,7 +1,7 @@
 # CS330 (Operating Systems) Design Assignments
 ## Course Instructor : Dr. Mainak Chaudhary
 
-### Team members : me, Udit Prased, Harsh Jain and Kembasaram Nitin
+### Team members : me, Udit Prasad, Harsh Jain and Kembasaram Nitin
 
 CS330 (Operating Systems) course assignments to implement various system calls, scheduling algorithms, condition variables and semaphores on xv6-riscv
 
